@@ -61,7 +61,7 @@ const students = [
     portfolio: "https://hyeon129.github.io/Park-Do-Hyeon/",
     presentation:
       "https://www.figma.com/proto/fnjLC03khlarLCEe2dPWrp/UX-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?page-id=864%3A5526&node-id=864-6870&viewport=255%2C-2977%2C0.23&t=wEF1aOBlasvfF929-1&scaling=contain&content-scaling=fixed",
-    prototype: "https://figma.com/prototype/parkminsu",
+    prototype: "",
   },
   {
     id: 5,
@@ -154,9 +154,8 @@ const students = [
     github: "https://github.com/jisun2077",
     portfolio: "https://jisun2077.github.io/MY-WEDSITE/",
     presentation:
-      "https://www.figma.com/proto/J80B6tK8zJHRUJaDd5FS3v/%EC%83%88%EC%8B%B9-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=1132%3A7377&node-id=1132-7470&p=f&viewport=315%2C-397%2C0.25&t=yCsd5qbALeYNX2V7-1&scaling=contain&content-scaling=fixed",
-    prototype:
-      "https://www.figma.com/design/J80B6tK8zJHRUJaDd5FS3v/%EC%83%88%EC%8B%B9-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=1159-8654&t=MsuQjxFFaEo4EogL-1",
+      "https://www.figma.com/proto/J80B6tK8zJHRUJaDd5FS3v/%EC%83%88%EC%8B%B9-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=1132%3A7377&node-id=1132-7470&p=f&viewport=36%2C-10150%2C0.51&t=YNWKuHERZzWypyTU-1&scaling=scale-down&content-scaling=fixed",
+    prototype: "",
   },
 ];
 
