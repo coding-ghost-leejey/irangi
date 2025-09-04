@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Showcase - 학생 포트폴리오 발표</title>
+    <link rel="stylesheet" href="portfolioShowcase.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🎓 Portfolio Showcase</h1>
+            <p>청년취업사관학교 서대문 3기 - 2025.09.04</p>
+        </header>
+
+        <main class="main-content">
+            <div class="students-grid" id="studentsGrid">
+                <!-- 학생 카드들이 여기에 동적으로 생성됩니다 -->
+            </div>
+
+            <div class="portfolio-modal" id="portfolioModal">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 id="modalTitle">학생 포트폴리오</h2>
+                        <button class="close-btn" id="closeModal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="student-info" id="studentInfo">
+                            <!-- 학생 정보가 여기에 표시됩니다 -->
+                        </div>
+                        <div class="portfolio-buttons" id="portfolioButtons">
+                            <!-- 포트폴리오 버튼들이 여기에 표시됩니다 -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="portfolioShowcase.js"></script>
+</body>
+
+</html>
