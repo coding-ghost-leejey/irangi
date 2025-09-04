@@ -6,27 +6,32 @@ const students = [
     name_en: "yujun",
     studentId: "2024001",
     description:
-      "프로덕트 디자이너로서 서비스 기획에도 흥미가 있으며 이를 심플하고 캐주얼하게 디자인하여 설계하는 것을 추구합니다:)",
+      "질문과 반복을 무기로, 부족함을 강점으로 바꾸는 성장형 디자이너 장유준입니다.",
     avatar: "장",
     profileImage: "./images/profile_yujun.png",
     github: "https://github.com/JANGYUJUN",
     portfolio: "https://jangyujun.github.io/MY-website/MY_website.html",
-    presentation: "https://docs.google.com/presentation/d/honggildong",
-    prototype: "https://figma.com/prototype/honggildong",
+    presentation:
+      "https://www.figma.com/proto/SClUPjoqcLo1jTJt2UvNSI/2025_UXUI_%EC%83%88%EC%8B%B9?page-id=778%3A21927&node-id=778-26816&viewport=250%2C175%2C0.09&t=2bAfqvG2vFUNSUGd-1&scaling=scale-down-width&content-scaling=fixed",
+    prototype:
+      "https://www.figma.com/proto/SClUPjoqcLo1jTJt2UvNSI/2025_UXUI_%EC%83%88%EC%8B%B9?page-id=0%3A1&node-id=935-11797&viewport=5799%2C-21938%2C0.6&t=30hicxtjhiZm4z8g-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=237%3A2297",
   },
   {
     id: 2,
     name: "장연재",
     name_en: "yeonjae",
     studentId: "2024002",
-    description: "데이터와 경험을 디자인으로 연결하는 프로덕트 디자이너",
+    description:
+      "데이터와 사용자 경험을 디자인으로 연결하여 생각을 흔들고 마음을 머무르게하는 프로덕트 디자이너",
     avatar: "장",
     profileImage: "./images/profile_yeonjae.png",
     github: "https://github.com/YeonJaezzzing",
     portfolio:
       "https://yeonjaezzzing.github.io/Portfolio/yeonjae_portfolio.html",
-    presentation: "https://docs.google.com/presentation/d/kimamugae",
-    prototype: "https://figma.com/prototype/kimamugae",
+    presentation:
+      "https://www.figma.com/proto/dbfVFdM3XXFnUu1QCNS4Sl/YeonJae-Portfolio?page-id=1108%3A84239&node-id=1109-89935&p=f&viewport=713%2C501%2C0.03&t=5cmSxXMmV20uaEPF-1&scaling=contain&content-scaling=fixed",
+    prototype:
+      "https://www.figma.com/proto/dbfVFdM3XXFnUu1QCNS4Sl/YeonJae-Portfolio?page-id=1%3A7&node-id=664-2542&viewport=1223%2C278%2C0.02&t=bt57B4OgNaagLtYT-1&scaling=scale-down&content-scaling=fixed",
   },
   {
     id: 3,
@@ -49,13 +54,13 @@ const students = [
     name: "박도현",
     name_en: "dohyen",
     studentId: "2024004",
-    description:
-      "모바일 앱 개발에 특화된 학생입니다. React Native와 Flutter를 다룹니다.",
+    description: "감각보단 진심, 아름다움보단 가치",
     avatar: "박",
     profileImage: "./images/profile_dohyen.png",
     github: "https://github.com/hyeon129",
     portfolio: "https://hyeon129.github.io/Park-Do-Hyeon/",
-    presentation: "https://docs.google.com/presentation/d/parkminsu",
+    presentation:
+      "https://www.figma.com/proto/fnjLC03khlarLCEe2dPWrp/UX-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?page-id=864%3A5526&node-id=864-6870&viewport=255%2C-2977%2C0.23&t=wEF1aOBlasvfF929-1&scaling=contain&content-scaling=fixed",
     prototype: "https://figma.com/prototype/parkminsu",
   },
   {
@@ -63,13 +68,15 @@ const students = [
     name: "박호정",
     name_en: "hojung",
     studentId: "2024005",
-    description: "안녕하세요 항상 즐기고 성장하는 UX/UI 디자이너 박호정입니다.",
+    description: "안녕하세요 경험으로 성장하는 UI/UX 디자이너 박호정입니다. ",
     avatar: "박",
     profileImage: "./images/profile_hojung.png",
     github: "https://github.com/coho91",
     portfolio: "https://coho91.github.io/cocoportfolio/",
-    presentation: "https://docs.google.com/presentation/d/choijiyeong",
-    prototype: "https://figma.com/prototype/choijiyeong",
+    presentation:
+      "https://www.figma.com/design/B7Yoq9ZRSedWE1IWibrs0r/250609_UX%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?node-id=146-25&t=dmXMPIXsUv5lJtM6-1",
+    prototype:
+      "https://www.figma.com/proto/B7Yoq9ZRSedWE1IWibrs0r/250609_UX%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?page-id=732%3A4145&node-id=732-6805&viewport=432%2C305%2C0.06&t=BvN8dbspvtU7borR-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1088%3A12626&show-proto-sidebar=1",
   },
   {
     id: 6,
@@ -82,8 +89,11 @@ const students = [
     profileImage: "./images/profile_jikyung.png",
     github: "https://github.com/gamzya5181",
     portfolio: "https://gamzya5181.github.io/JG/",
-    presentation: "https://docs.google.com/presentation/d/jeonghyunwoo",
-    prototype: "https://figma.com/prototype/jeonghyunwoo",
+
+    presentation:
+      "https://www.figma.com/proto/tcOshmnjiMR5T99rWgReoV/JK_ux%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?page-id=2488%3A8720&node-id=2488-9256&viewport=60%2C703%2C0.25&t=nGV1e7yorlG95jFM-1&scaling=min-zoom&content-scaling=fixed",
+    prototype:
+      "https://www.figma.com/proto/tcOshmnjiMR5T99rWgReoV/JK_ux%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?page-id=101%3A65&node-id=821-2627&viewport=-3378%2C-3023%2C0.5&t=SsLo6OPcBbwZyZ7M-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1565%3A5793",
   },
   {
     id: 7,
@@ -96,8 +106,10 @@ const students = [
     profileImage: "./images/profile_ayeon.png",
     github: "https://github.com/ayeoniiii",
     portfolio: "https://ayeoniiii.github.io/say/",
-    presentation: "https://docs.google.com/presentation/d/hansoyoung",
-    prototype: "https://figma.com/prototype/hansoyoung",
+    presentation:
+      "https://www.figma.com/design/KbpUwaq6RhEhQKwrLhqru2/%F0%9F%8D%87-%EC%83%88%EC%8B%B9_UX-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?node-id=872-7545&t=OPQ0fzXDOAm050Sw-1",
+    prototype:
+      "https://www.figma.com/design/KbpUwaq6RhEhQKwrLhqru2/%F0%9F%8D%87-%EC%83%88%EC%8B%B9_UX-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4?node-id=322-1833&t=OPQ0fzXDOAm050Sw-1",
   },
   {
     id: 8,
@@ -128,7 +140,7 @@ const students = [
     presentation:
       "https://www.figma.com/proto/VZ8nhdGBbNveSyjvZqOhnx/UXUI-%EA%B3%BC%EC%A0%95?node-id=1366-18797&t=rgVy5bMA1wCfIhNv-1&scaling=scale-down-width&content-scaling=fixed",
     prototype:
-      "https://www.figma.com/proto/VZ8nhdGBbNveSyjvZqOhnx/UXUI-%EA%B3%BC%EC%A0%95?node-",
+      "https://www.figma.com/proto/VZ8nhdGBbNveSyjvZqOhnx/UXUI-%EA%B3%BC%EC%A0%95?node-id=1543-18884&t=tma8rbEiA9c17Z9a-1&content-scaling=responsive",
   },
   {
     id: 10,
@@ -143,7 +155,8 @@ const students = [
     portfolio: "https://jisun2077.github.io/MY-WEDSITE/",
     presentation:
       "https://www.figma.com/proto/J80B6tK8zJHRUJaDd5FS3v/%EC%83%88%EC%8B%B9-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=1132%3A7377&node-id=1132-7470&p=f&viewport=315%2C-397%2C0.25&t=yCsd5qbALeYNX2V7-1&scaling=contain&content-scaling=fixed",
-    prototype: "https://figma.com/prototype/songjunho",
+    prototype:
+      "https://www.figma.com/design/J80B6tK8zJHRUJaDd5FS3v/%EC%83%88%EC%8B%B9-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=1159-8654&t=MsuQjxFFaEo4EogL-1",
   },
 ];
 
@@ -393,6 +406,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const studentCards = document.querySelectorAll(".student-card");
     studentCards.forEach((card, index) => {
       card.style.opacity = "0";
+
       card.style.transform = "translateY(30px)";
       card.style.transition = `opacity 0.6s ease ${
         index * 0.1
